@@ -1,5 +1,5 @@
 # Cryptocoinopoly
-This is a crypto spin on the classic boardgame that introduces participants to crpytocurrencies and GitHub in a new and interesting way. It was originally introduced by ned0flanders and has been forked to create a more immersive learning experience. 
+This is a crypto spin on the classic boardgame that introduces participants to cryptocurrencies and GitHub in a new and interesting way. It was originally introduced by ned0flanders and has been forked to create a more immersive learning experience. 
 
 Cryptocoinopoly is the cryptocurrency trading game where the aim is to drive everyone else to bankruptcy and for you to centralize the internet of value into your own hands. Acquire some of the most popular cryptocurrencies on the internet, charge players network fees for landing on your cryptos and collect money. Use your money to acquire more cryptocurrencies, build mining rigs and farms and become a whale in the crypto-world. Along the way, market busts, crypto-booms and chance will work in your favour or against.
 
